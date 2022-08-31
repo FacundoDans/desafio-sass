@@ -1,0 +1,25 @@
+header {
+  color: aqua; }
+  header nav {
+    color: #000; }
+    header nav ul {
+      color: aqua; }
+
+main section h2 {
+  color: aqua; }
+
+main section p {
+  color: brown; }
+
+main section img {
+  color: chartreuse; }
+
+main section button {
+  color: darkorchid; }
+  main section button:hover {
+    color: aqua; }
+
+footer {
+  color: aqua; }
+  footer ul {
+    color: aqua; }

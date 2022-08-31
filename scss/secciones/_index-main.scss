@@ -1,0 +1,28 @@
+main{
+    section{
+        //estilo h2
+        h2{
+            color: aqua;
+
+        }
+        //estilo p
+        p{
+            color: brown;
+
+        }
+        //estilo img
+        img{
+            color: chartreuse;
+
+        }
+        //estilo button
+        button{
+            color: darkorchid;
+            &:hover{
+                color: aqua;
+
+            }
+
+        }
+    }
+}
